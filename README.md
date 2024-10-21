@@ -2,7 +2,7 @@ This repository contains a collection of labs completed for the Software Enginee
 
 ## Lab Summaries
 
-## Lab 1: Introduction to Rational Software Architect Designer (RSA)
+**Lab 1: Introduction to Rational Software Architect Designer (RSA)**
 In this lab, I focused on creating a **Requirements Model** using Rational Software Architect (RSA). The objectives included:
 
 - **Developing a Use Case Diagram**: I designed a Use Case Diagram for a Restaurant Booking Management system, identifying key functionalities and user interactions.
@@ -11,7 +11,7 @@ In this lab, I focused on creating a **Requirements Model** using Rational Softw
 
 This foundational work laid the groundwork for further analysis and design in subsequent labs, emphasizing the importance of clear requirements in software development.
 
-## Lab 2: Sequence Diagrams and Code Generation in RSA
+**Lab 2: Sequence Diagrams and Code Generation in RSA**
 In the second lab, I expanded on my initial requirements model by introducing **sequence diagrams**. Key tasks included:
 
 - **Illustrating Interactions**: I developed sequence diagrams that depicted how various objects within the Restaurant Booking Management system interact to complete specific use cases. This helped in visualizing the flow of messages between objects.
@@ -20,7 +20,7 @@ In the second lab, I expanded on my initial requirements model by introducing **
 
 This lab demonstrated how RSA automatically updates the object model based on my diagram modifications, enhancing my understanding of dynamic interactions and object-oriented design principles.
 
-## Lab 3: Class and Sequence Diagrams with Model Implementation
+**Lab 3: Class and Sequence Diagrams with Model Implementation**
 In the third lab, I created a UML project for a **Letting Company management system**. The objectives were to:
 
 - **Developing a Use Case Diagram**: I constructed a Use Case Diagram that identified key functionalities such as calculating monthly rent, managing tenants, and property listings.
@@ -29,7 +29,7 @@ In the third lab, I created a UML project for a **Letting Company management sys
 
 In this lab, I emphasized the **Principle of Least Knowledge**, ensuring that each class only interacts with the necessary components, which is vital for maintaining system modularity and reducing complexity.
 
-## Lab 4: DAO Pattern Implementation using Eclipse
+**Lab 4: DAO Pattern Implementation using Eclipse**
 The final lab involved transitioning from RSA to **Eclipse**, focusing on implementing the **Data Access Object (DAO)** pattern. Key aspects included:
 
 - **Setting Up a Java Project**: I created a new Java project called SE3_JDBC_Example in Eclipse, ensuring the project was structured to accommodate JDBC operations for database interaction.
