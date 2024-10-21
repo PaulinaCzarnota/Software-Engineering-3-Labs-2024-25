@@ -2,8 +2,6 @@ This repository contains a collection of labs completed for the Software Enginee
 
 ## Lab Summaries
 
-This repository contains a collection of labs I completed for the Software Engineering 3 module during my third year of Computer Science at TU Dublin.
-
 ## Lab 1: Introduction to Rational Software Architect Designer (RSA)
 In this lab, I focused on creating a **Requirements Model** using Rational Software Architect (RSA). The objectives included:
 
