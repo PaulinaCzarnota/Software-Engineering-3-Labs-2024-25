@@ -40,4 +40,4 @@ The final lab involved transitioning from RSA to **Eclipse**, focusing on implem
 - **Integrating MySQL**: I downloaded the MySQL JDBC Connector and configured it within the project, allowing for seamless communication between my Java application and the MySQL database.
 - **Implementing the DAO Pattern**: I developed DAO classes to abstract the data access logic from the business logic. This involved creating interfaces and concrete classes for managing database operations, such as inserting, updating, and retrieving data related to properties and tenants.
 
-This lab provided valuable hands-on experience in Java and database management, reinforcing the importance of data persistence in software applications.
+This lab provided valuable hands-on experience in Java and database management, reinforcing the importance of data persistence in software applications. 
